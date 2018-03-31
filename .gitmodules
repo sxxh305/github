@@ -1,0 +1,3 @@
+[submodule "gitlink"]
+	path = gitlink
+	url = https://xin-hua.xie@teamforge.advantest.com/gerrit/gitlink
